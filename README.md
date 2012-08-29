@@ -8,4 +8,5 @@ A simple script that gets the job done - blocks the websites I need to blocked, 
 Simple usage
 
 perl block-tp.pl block --> blocks the websites
+
 perl block-tp.pl unblock --> unblocks the website
