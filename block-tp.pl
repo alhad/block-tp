@@ -43,3 +43,5 @@ hostsline: foreach $line(@hostslines) {
    close HOSTS;
 }
 
+qx%ipconfig /flushdns%;
+
